@@ -1,0 +1,20 @@
+net/ivanvega/fragmentosdinamicos/BuildConfig.java
+ net.ivanvega.fragmentosdinamicos.BuildConfig
+net/ivanvega/fragmentosdinamicos/DetalleFragment.java
+ net.ivanvega.fragmentosdinamicos.DetalleFragment
+net/ivanvega/fragmentosdinamicos/Libro.java
+ net.ivanvega.fragmentosdinamicos.Libro
+net/ivanvega/fragmentosdinamicos/AdaptadorLirbosFiltro.java
+ net.ivanvega.fragmentosdinamicos.AdaptadorLirbosFiltro
+net/ivanvega/fragmentosdinamicos/MiAdaptadorPersonalizado.java
+ net.ivanvega.fragmentosdinamicos.MiAdaptadorPersonalizado
+ net.ivanvega.fragmentosdinamicos.MiAdaptadorPersonalizado$ViewHolder
+net/ivanvega/fragmentosdinamicos/MainActivity.java
+ net.ivanvega.fragmentosdinamicos.MainActivity
+ net.ivanvega.fragmentosdinamicos.MainActivity$1
+ net.ivanvega.fragmentosdinamicos.MainActivity$2
+net/ivanvega/fragmentosdinamicos/SelectorFragment.java
+ net.ivanvega.fragmentosdinamicos.SelectorFragment
+ net.ivanvega.fragmentosdinamicos.SelectorFragment$1
+ net.ivanvega.fragmentosdinamicos.SelectorFragment$1$1
+ net.ivanvega.fragmentosdinamicos.SelectorFragment$1$2
